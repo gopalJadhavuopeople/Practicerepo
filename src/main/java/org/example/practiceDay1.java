@@ -6,6 +6,8 @@ public class practiceDay1 {
         System.out.println("this is day 1 code");
 
         System.out.println("Add this in 2nd commit");
+
+        System.out.println("this is after second commit");
     }
 
 }
